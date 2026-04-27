@@ -1,0 +1,17 @@
+# Ambiente
+venv/
+.env
+*.pyc
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Dados sensíveis ou pesados
+data/raw/
+*.csv.bak
