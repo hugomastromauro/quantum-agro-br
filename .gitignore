@@ -1,7 +1,8 @@
 # Ambiente
-venv/
+.venv/
 .env
 *.pyc
+.idea
 __pycache__/
 
 # Jupyter
